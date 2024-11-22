@@ -1,4 +1,4 @@
-# Predictive_Analytics:
+# Predictive Analytics:
 1.	 Predicting employee turnover and customer churn for retention efforts.
 2.	 Estimating personalized insurance premiums using machine learning.
 3.	 Optimizing rental pricing strategies for Airbnb hosts.
